@@ -37,7 +37,11 @@
         graphs.PrimsMST(cost, 7);
 
         //Kruska'l section
-        graphs.Kruskals();
+        int[,] edges ={{ 1, 1,  2,  2, 3,  4,  4,  5,  5},
+                       { 2, 6,  3,  7, 4,  5,  7,  6,  7},
+                       {25, 5, 12, 10, 8, 16, 14, 20, 18}};
+        System.Console.WriteLine("Kruskals");
+        graphs.Kruskals(edges);
 
     }
 
