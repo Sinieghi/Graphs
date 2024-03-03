@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\bin\Debug\net8.0\Graphs.exe
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\bin\Debug\net8.0\Graphs.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\bin\Debug\net8.0\Graphs.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\bin\Debug\net8.0\Graphs.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\bin\Debug\net8.0\Graphs.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\refint\Graphs.dll
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\Graphs.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\Graphs\obj\Debug\net8.0\ref\Graphs.dll
